@@ -310,6 +310,9 @@ button:hover span:after {
 }
 
 @media (max-width: 410px) {
+  body {
+    margin-top: 3vh;
+  }
   .amount {
     justify-content: center;
     align-self: center;
