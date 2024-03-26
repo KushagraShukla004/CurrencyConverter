@@ -312,7 +312,6 @@ button:hover span:after {
 @media (max-width: 410px) {
   body {
     margin-top: 3vh;
-    border: 5px solid yellow;
   }
   .amount {
     justify-content: center;
